@@ -1,0 +1,5 @@
+snowflake-snowpark-python==0.7.0
+streamlit
+pandas
+numpy
+streamlit-aggrid
