@@ -4,3 +4,4 @@ cffi==1.15.0
 pandas
 numpy
 streamlit-aggrid
+cloudpickle<=2.0.0
